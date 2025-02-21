@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #c9a17f;
+  background-color: #EFE5D5;
   /* لون الخلفية مأخوذ من الصورة */
   color: #333;
   margin: 0;
@@ -19,14 +19,21 @@ body {
 
 .container {
   max-width: 800px;
-  margin: 50px auto;
+  margin: 10px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.con {
+  max-width: 800px;
+  margin: 10px auto;
   text-align: center;
   padding: 20px;
 }
 
 /* الهيدر */
 header {
-  background-color: #28594f;
+  background-color: #D1B38B;
   /* لون أخضر داكن مشابه للصورة */
   color: white;
   padding: 20px;
@@ -73,7 +80,7 @@ header h1 {
 
 #links a {
   display: block;
-  background: #28594f;
+  background: #D1B38B;
   /* لون الخلفية */
   color: white;
   padding: 16px;
@@ -96,7 +103,7 @@ header h1 {
 }
 
 #links a:hover {
-  background-color: #184334;
+  background-color: #D1B38B;
   /* لون أغمق عند التمرير */
   transform: scale(1.05);
 }
@@ -133,7 +140,7 @@ button {
 
 /* الفوتر */
 footer {
-  background: #28594f;
+  background: #D1B38B;
   color: white;
   padding: 15px;
   text-align: center;
