@@ -2,7 +2,7 @@ let user = {
   id: 1,
   username: "testuser",
   links: [
-    { id: 4, title: "رقم واتساب", url: "https://wa.me/+967772587000", icon: "fab fa-whatsapp" }
+    { id: 4, title: "رقم واتساب", url: "https://wa.me/+967779470000", icon: "fab fa-whatsapp" }
   ]
 };
 
