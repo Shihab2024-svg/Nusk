@@ -85,7 +85,7 @@ header h1 {
   color: white;
   padding: 16px;
   text-decoration: none;
-  border-radius: 8px;
+  border-radius: 50px;
   font-size: 1.1em;
   transition: background-color 0.3s, transform 0.3s;
   text-align: center;
